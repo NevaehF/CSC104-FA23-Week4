@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(153, 185, 153);
+    color: rgba(0, 0, 0, 0.795);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: whitesmoke; 
+}
+
+P{
+    font-size: large; 
+}
